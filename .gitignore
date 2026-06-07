@@ -1,0 +1,17 @@
+# Lokalne narzedzia / edytory
+.claude/
+.vscode/
+.idea/
+
+# Smieci systemowe
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.DS_Store
+
+# Lokalna konfiguracja wlasciciela (np. prawdziwy OWNER_EMAIL) – NIE commitowac
+config.local.js
+*.local.js
+
+# Archiwa / snapshoty
+*.zip
